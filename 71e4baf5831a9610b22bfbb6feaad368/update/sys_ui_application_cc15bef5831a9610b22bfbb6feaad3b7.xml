@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>My Stuff</name>
+        <order/>
+        <roles>x_183913_my_app.my_stuff_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>kevin</sys_created_by>
+        <sys_created_on>2024-12-06 20:40:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc15bef5831a9610b22bfbb6feaad3b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Stuff</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="my custom application" source="x_183913_my_app">71e4baf5831a9610b22bfbb6feaad368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my custom application">71e4baf5831a9610b22bfbb6feaad368</sys_scope>
+        <sys_update_name>sys_ui_application_cc15bef5831a9610b22bfbb6feaad3b7</sys_update_name>
+        <sys_updated_by>kevin</sys_updated_by>
+        <sys_updated_on>2024-12-06 20:40:33</sys_updated_on>
+    </sys_ui_application>
+</record_update>

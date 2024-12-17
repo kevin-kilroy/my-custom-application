@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="My Stuff" language="en" table="x_183913_my_app_my_stuff">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>My Stuff</label>
+            <language>en</language>
+            <name>x_183913_my_app_my_stuff</name>
+            <plural>My Stuffs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kevin</sys_created_by>
+            <sys_created_on>2024-12-06 20:40:35</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Stuff</sys_name>
+            <sys_package display_value="my custom application" source="x_183913_my_app">71e4baf5831a9610b22bfbb6feaad368</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="my custom application">71e4baf5831a9610b22bfbb6feaad368</sys_scope>
+            <sys_update_name>sys_documentation_x_183913_my_app_my_stuff__en</sys_update_name>
+            <sys_updated_by>kevin</sys_updated_by>
+            <sys_updated_on>2024-12-06 20:40:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
